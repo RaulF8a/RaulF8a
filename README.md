@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raúl</h1>
+<h1 align="center">Hi, I'm Raúl</h1>
 
 <br>
 <h3 align="center">A computer science student always looking to learn something new</h3>
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React MDN, Lavarel, Machine Learning.**
 
-- 💬 Ask me about **Web Development (NodeJS, Django)**
+- 💬 Ask me about **Web Development (NodeJS, Django, Express, React)**
 
 - 📫 How to reach me **raul.ochoa9077@alumnos.udg.mx**
 
