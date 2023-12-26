@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Raúl<br><br>A computer science student enrolled in Universidad de Guadalajara.<br><br>🌱 I’m currently learning React MDN, and Machine Learning.<br>
+Hi, I'm Raúl<br><br>A computer science student enrolled in Universidad de Guadalajara.<br><br>🌱 I’m currently learning Node JS, and Next.js.<br>
 
 
 ## 🌐 Socials:
